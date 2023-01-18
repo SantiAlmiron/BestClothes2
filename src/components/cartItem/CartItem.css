@@ -1,0 +1,16 @@
+.cart_img{
+    height: 10rem;
+    width: 8rem ;
+}
+
+.cart_description{
+margin-left: 4rem;
+}
+
+.cart{
+    display: flex;
+}
+
+.cart_button{
+ margin-top: 5rem;
+}

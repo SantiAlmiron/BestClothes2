@@ -1,0 +1,7 @@
+.home{
+    display: flex;
+    gap: 2rem;
+    padding: 3rem;
+    align-items: center;
+    text-align: center;
+}

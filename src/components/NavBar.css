@@ -1,0 +1,15 @@
+.NavBar{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    height: 6rem;
+    width: 6rem;
+}
+
+.Menu{
+    display: flex;
+    gap: 2rem;
+}
